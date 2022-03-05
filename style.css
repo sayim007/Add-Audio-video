@@ -1,0 +1,50 @@
+
+h1{
+    color: wheat;
+    background-color: rgb(4, 4, 43);
+    padding: 15px;
+    border: none solid 2px;
+    margin: 2% 25%;
+    border-radius: 10px; 
+}
+.center{
+    text-align: center;
+}
+p{
+    text-align: justify;
+    font-family: 'Fredoka', sans-serif;
+}
+section{
+    display: flex;
+}
+.image{
+    border-radius: 10px;
+    width: 100%;
+}
+.half{
+    width: 50%;
+    padding: 5%;
+}
+video{
+    width:100%;
+    border-radius: 10px;
+}
+.doctor{
+    width: 300px;
+    height: 150px;
+}
+span{
+    color: orange;
+}
+footer{
+    background-color: rgb(4, 4, 43);
+    padding: 4%;
+    border-radius: 5px;
+    color: wheat;
+}
+h3{
+    font-family: 'Satisfy', cursive;
+}
+h1{
+    font-family: 'Secular One', sans-serif;
+}
